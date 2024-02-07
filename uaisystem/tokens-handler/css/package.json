@@ -1,0 +1,14 @@
+{
+  "name": "@uai-design/tokens-to-classes",
+  "version": "0.0.1",
+  "description": "",
+  "author": "grco",
+  "license": "MIT",
+  "keywords": [
+    "design-tokens",
+    "style-dictionary"
+  ],
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {}
+}

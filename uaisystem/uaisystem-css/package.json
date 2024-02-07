@@ -1,0 +1,16 @@
+{
+  "name": "uaisystem-css",
+  "version": "0.0.1",
+  "description": "Uai System CSS classes",
+  "author": "grco",
+  "license": "ISC",
+  "main": "src/index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uaidesign/uaisystem-css.git"
+  },
+  "keywords": [
+    "css",
+    "uaisystem"
+  ]
+}

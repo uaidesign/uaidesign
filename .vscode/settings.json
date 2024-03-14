@@ -1,0 +1,47 @@
+{
+  "git.ignoreLimitWarning": true,
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "**/color-core.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/color-core.json"
+    },
+    {
+      "fileMatch": [
+        "**/color-semantic.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/color-semantic.json"
+    },
+    {
+      "fileMatch": [
+        "**/dimension-core.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/dimension-core.json"
+    },
+    {
+      "fileMatch": [
+        "**/dimension-extra.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/dimension-extra.json"
+    },
+    {
+      "fileMatch": [
+        "**/shadow.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/shadow.json"
+    },
+    {
+      "fileMatch": [
+        "**/typography-core.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/typography-core.json"
+    },
+    {
+      "fileMatch": [
+        "**/typography-semantic.tokens.json"
+      ],
+      "url": "file:/Users/greco/Documents/Trabalhando/Desenvolvimento/uai design/uaidesign/uaisystem/types/dist/typography-semantic.json"
+    }
+  ]
+}

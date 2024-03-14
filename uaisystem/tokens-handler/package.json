@@ -1,0 +1,20 @@
+{
+  "name": "@uaisystem/tokens-handler",
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "enum-1": "tsx src/css/enums/index-1.ts",
+    "enum-2": "tsx src/css/enums/index-2.ts",
+    "build": "tsx src/css/css-files/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "@uaisystem/design-tokens": "workspace:*",
+    "@uaisystem/types": "workspace:*",
+    "tsconfig-paths": "^4.2.0",
+    "tsup": "^8.0.2",
+    "tsx": "^4.7.1",
+    "zod": "^3.22.4",
+    "zod-to-json-schema": "^3.22.4"
+  }
+}

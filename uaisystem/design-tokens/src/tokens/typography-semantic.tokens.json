@@ -1,0 +1,61 @@
+{
+  "title": {
+    "family": "family-sans",
+    "weight": "weight-semi-bold",
+    "tracking": "tracking-1",
+    "leading": "leading-1",
+    "size": {
+      "1": "minor-scale-16",
+      "2": "minor-scale-14",
+      "3": "minor-scale-12"
+    }
+  },
+  "heading": {
+    "family": "family-sans",
+    "weight": "weight-medium",
+    "tracking": "tracking-3",
+    "leading": "leading-3",
+    "size": {
+      "1": "minor-scale-8",
+      "2": "minor-scale-7",
+      "3": "minor-scale-6",
+      "4": "minor-scale-5"
+    }
+  },
+  "dialog": {
+    "family": "family-sans",
+    "weight": "weight-medium",
+    "tracking": "tracking-2",
+    "leading": "leading-2",
+    "size": {
+      "1": "minor-scale-10",
+      "2": "minor-scale-9",
+      "3": "minor-scale-8",
+      "4": "minor-scale-7"
+    }
+  },
+  "body": {
+    "family": "family-sans",
+    "weight": "weight-normal",
+    "tracking": "tracking-5",
+    "leading": "leading-4",
+    "size": {
+      "1": "minor-scale-8",
+      "2": "minor-scale-7",
+      "3": "minor-scale-6",
+      "4": "minor-scale-5"
+    }
+  },
+  "caption": {
+    "family": "family-sans",
+    "weight": "weight-normal",
+    "tracking": "tracking-4",
+    "leading": "leading-1",
+    "size": {
+      "1": "minor-scale-7",
+      "2": "minor-scale-6",
+      "3": "minor-scale-5",
+      "4": "minor-scale-4"
+    }
+  }
+}

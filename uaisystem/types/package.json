@@ -1,0 +1,18 @@
+{
+  "name": "@uaisystem/types",
+  "version": "0.0.0",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsup src/index.ts --dts && tsx src/json-schemas.ts"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.17",
+    "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.7.1",
+    "zod": "^3.22.4",
+    "zod-to-json-schema": "^3.22.4"
+  }
+}
